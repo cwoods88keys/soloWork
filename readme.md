@@ -7,3 +7,4 @@
 * Student repos
 * GitHub classroom
 * Permissions
+* Exercises
